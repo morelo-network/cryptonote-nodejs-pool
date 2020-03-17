@@ -3,7 +3,7 @@
 
 	"coin": "morelo",
 	"symbol": "MRL",
-	"coinUnits": 75000000000,
+	"coinUnits": 1000000000,
 	"coinDecimalPlaces": 9,
 	"coinDifficultyTarget": 120,
 	"blockchainExplorer": "https://mrl.supportcryptonight.com/block/{id}",
@@ -143,12 +143,12 @@
 
 	"daemon": {
 		"host": "127.0.0.1",
-		"port": 42462
+		"port": 38422
 	},
 
 	"wallet": {
 		"host": "127.0.0.1",
-		"port": 12912
+		"port": 38411
 	},
 
 	"redis": {
